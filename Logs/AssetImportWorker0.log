@@ -1871,3 +1871,299 @@ Received Import Request.
 Start importing Assets/Standard Assets/Prototyping/Textures/SwatchOrangeAlbedo.png using Guid(8b939c5b46fae7e49af7d85f731ba4ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dd2b19b1cea8d73a4e14b2c622b6f2b') in 0.006562 seconds 
   Import took 0.008889 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1082.493389 seconds.
+  path: Assets/wall.mat
+  artifactKey: Guid(51478f69c454d438cb4aae057be33d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/wall.mat using Guid(51478f69c454d438cb4aae057be33d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f13daf356b89a0b80a371771bb41d096') in 1.725109 seconds 
+  Import took 1.922267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.129586 seconds.
+  path: Assets/EscapeMaze
+  artifactKey: Guid(f544d3a1301d74d989ef9964b83c3dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EscapeMaze using Guid(f544d3a1301d74d989ef9964b83c3dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46dc6b04a4a75608f755852211bc5ccb') in 0.005663 seconds 
+  Import took 0.011070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.818337 seconds.
+  path: Assets/EscapeMaze/Material
+  artifactKey: Guid(843530efdfe1a4ce9828cc5064d225f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EscapeMaze/Material using Guid(843530efdfe1a4ce9828cc5064d225f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bff20d65d8ecc984fe83cad59c90c4a4') in 0.002982 seconds 
+  Import took 0.023429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012800 seconds.
+  path: Assets/EscapeMaze/Material
+  artifactKey: Guid(843530efdfe1a4ce9828cc5064d225f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EscapeMaze/Material using Guid(843530efdfe1a4ce9828cc5064d225f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bff20d65d8ecc984fe83cad59c90c4a4') in 0.000911 seconds 
+  Import took 0.003882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.821124 seconds.
+  path: Assets/EscapeMaze/Terrain
+  artifactKey: Guid(dccaa9992b5544e949a13fd5384ccd57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EscapeMaze/Terrain using Guid(dccaa9992b5544e949a13fd5384ccd57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5924c2e5f0532031c46874c9d1a4ae85') in 0.005586 seconds 
+  Import took 0.008058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.125929 seconds.
+  path: Assets/EscapeMaze/NewLayer 4.terrainlayer
+  artifactKey: Guid(b868eefbccaf340ae905eed7cfb00726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EscapeMaze/NewLayer 4.terrainlayer using Guid(b868eefbccaf340ae905eed7cfb00726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f72409a414f5b54f672ef535708383a') in 1.413336 seconds 
+  Import took 1.415871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/EscapeMaze/NewLayer 2.terrainlayer
+  artifactKey: Guid(1058edfa66bc94eb58e560b9d04724cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EscapeMaze/NewLayer 2.terrainlayer using Guid(1058edfa66bc94eb58e560b9d04724cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac6c825f2295326a1bfe32fe64cf5573') in 0.015542 seconds 
+  Import took 0.023368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001069 seconds.
+  path: Assets/EscapeMaze/NewLayer 3.terrainlayer
+  artifactKey: Guid(954369f7ec2474a07a4e7b4291a3431a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EscapeMaze/NewLayer 3.terrainlayer using Guid(954369f7ec2474a07a4e7b4291a3431a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bdd8e0de49b64c512bd0b56cdf09095') in 0.050594 seconds 
+  Import took 0.053558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/EscapeMaze/NewLayer.terrainlayer
+  artifactKey: Guid(51cf0cac91b794286a5a174201c6ce5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EscapeMaze/NewLayer.terrainlayer using Guid(51cf0cac91b794286a5a174201c6ce5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abc8da7ea2a642e839484f4e8ddd1756') in 0.013224 seconds 
+  Import took 0.015794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/EscapeMaze/NewLayer 1.terrainlayer
+  artifactKey: Guid(16cc229267c3540af8c111e29f45edc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EscapeMaze/NewLayer 1.terrainlayer using Guid(16cc229267c3540af8c111e29f45edc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297dd2dfd52acc9e7f2ecebeaa89a254') in 0.013943 seconds 
+  Import took 0.016569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 390.247549 seconds.
+  path: Assets/EscapeMaze/Materials
+  artifactKey: Guid(843530efdfe1a4ce9828cc5064d225f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EscapeMaze/Materials using Guid(843530efdfe1a4ce9828cc5064d225f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6db88301dc92948790c172ff5be7616') in 0.001669 seconds 
+  Import took 0.006817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 388.926989 seconds.
+  path: Assets/EscapeMaze/Materials/wall.mat
+  artifactKey: Guid(51478f69c454d438cb4aae057be33d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EscapeMaze/Materials/wall.mat using Guid(51478f69c454d438cb4aae057be33d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f7591866e4061126cb83b630743d0e3') in 0.310103 seconds 
+  Import took 0.410291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.988241 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(10ac984e0883c476c9136c843e16aef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(10ac984e0883c476c9136c843e16aef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9160f60a5d088a42b865b995f16b389f') in 0.063718 seconds 
+  Import took 0.069911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.903133 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE
+  artifactKey: Guid(748ae9600ede84b3f836b69b882e868e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE using Guid(748ae9600ede84b3f836b69b882e868e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53b9396078244eb88df0bc94421b40e8') in 0.001579 seconds 
+  Import took 0.003884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.925739 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/STONE
+  artifactKey: Guid(a7886903fcf0d734b9c5e4c4ada26803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/STONE using Guid(a7886903fcf0d734b9c5e4c4ada26803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce1e50eb6e2e48d871610d9a86c9d456') in 0.001201 seconds 
+  Import took 0.003989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073179 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/STONE/Stone 1 PBS.mat
+  artifactKey: Guid(6cd8d1ec86714d848883cb3c10592c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/STONE/Stone 1 PBS.mat using Guid(6cd8d1ec86714d848883cb3c10592c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e714683599ac07ba82ff867968cdd91c') in 1.040000 seconds 
+  Import took 1.043138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/STONE/Stone 5 PBS.mat
+  artifactKey: Guid(e1aa90f7c1407eb4aa2743ca2f17204f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/STONE/Stone 5 PBS.mat using Guid(e1aa90f7c1407eb4aa2743ca2f17204f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3849ee27b274acdffc9bbc1062690090') in 0.022941 seconds 
+  Import took 0.026010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/STONE/Stone 6 PBS.mat
+  artifactKey: Guid(2a5063f82560cc34eb018f14c00a2338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/STONE/Stone 6 PBS.mat using Guid(2a5063f82560cc34eb018f14c00a2338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '471741ab90b5ac42df1b8ef7612bb6a1') in 0.020622 seconds 
+  Import took 0.023939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/STONE/Stone 3 PBS.mat
+  artifactKey: Guid(9ce5d24bf2981184795a887bae02e666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/STONE/Stone 3 PBS.mat using Guid(9ce5d24bf2981184795a887bae02e666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6872f684538d1cd7480e88712f4860fd') in 0.021882 seconds 
+  Import took 0.025271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/STONE/Stone 8 PBS.mat
+  artifactKey: Guid(12b847f4b72a2c34c8b908e75259796d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/STONE/Stone 8 PBS.mat using Guid(12b847f4b72a2c34c8b908e75259796d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a08337b689e458268372fae33eb3f88b') in 0.027035 seconds 
+  Import took 0.030541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/STONE/Stone 7 PBS.mat
+  artifactKey: Guid(087bef098ce39294db0ac97db2e8e819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/STONE/Stone 7 PBS.mat using Guid(087bef098ce39294db0ac97db2e8e819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a5280b77c154d4b5c253021461eca3c') in 0.017985 seconds 
+  Import took 0.021360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000828 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/STONE/Stone 10 PBS.mat
+  artifactKey: Guid(22de20f0a31256849ae199f8464e20b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/STONE/Stone 10 PBS.mat using Guid(22de20f0a31256849ae199f8464e20b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed4b1351c158ad1eccffd6a9f223c28f') in 0.022418 seconds 
+  Import took 0.025821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/STONE/Stone 9 PBS.mat
+  artifactKey: Guid(cd2fcf1a363840643b65aaa5c377bdb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/STONE/Stone 9 PBS.mat using Guid(cd2fcf1a363840643b65aaa5c377bdb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '304f107c9b9fda0246a22f2bfc43f1c9') in 0.019209 seconds 
+  Import took 0.022560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/STONE/Stone 2 PBS.mat
+  artifactKey: Guid(16b688ed7a506b448a8321fc28f212a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/STONE/Stone 2 PBS.mat using Guid(16b688ed7a506b448a8321fc28f212a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd8e76a346685ee26dc91e54bbaed35') in 0.019650 seconds 
+  Import took 0.023003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/STONE/Stone 4 PBS.mat
+  artifactKey: Guid(ce1ddd8e466bcef44937c4f1ee17b988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/STONE/Stone 4 PBS.mat using Guid(ce1ddd8e466bcef44937c4f1ee17b988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08287fcfdbed01bfe7521127dfff328f') in 0.017503 seconds 
+  Import took 0.020838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.725985 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/INDOOR
+  artifactKey: Guid(feba2b3fe27b5294a8cc381e37b945fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/INDOOR using Guid(feba2b3fe27b5294a8cc381e37b945fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae25e58074aa977f068ed949ac1a56b0') in 0.001121 seconds 
+  Import took 0.003766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075360 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor  01 PBS.mat
+  artifactKey: Guid(b25e4a90585de82488e673df147cd433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor  01 PBS.mat using Guid(b25e4a90585de82488e673df147cd433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8137e0c8d074bd58132a410018c0de2a') in 0.498637 seconds 
+  Import took 0.502654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor 03 PBS.mat
+  artifactKey: Guid(29aa788fb6671c9408f8af10ffcb2a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor 03 PBS.mat using Guid(29aa788fb6671c9408f8af10ffcb2a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ed2718d7124b5b92fba87abb49ccc19') in 0.021360 seconds 
+  Import took 0.024022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor 04 PBS.mat
+  artifactKey: Guid(2ef54fb68ff4a714bbc74f4156fc4697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor 04 PBS.mat using Guid(2ef54fb68ff4a714bbc74f4156fc4697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ecf745d62ae6de5432254527bb23749') in 0.016886 seconds 
+  Import took 0.019497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor 02 PBS.mat
+  artifactKey: Guid(ccc15cb7ac0710d4086a96d47554db90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor 02 PBS.mat using Guid(ccc15cb7ac0710d4086a96d47554db90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0631efc66972c2f9f97a03cf460bcf0c') in 0.017848 seconds 
+  Import took 0.020917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor 07 PBS.mat
+  artifactKey: Guid(cfc37600fdb17d04b83d5818937307a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor 07 PBS.mat using Guid(cfc37600fdb17d04b83d5818937307a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f295e61d373ce55c39692a7947a18a8b') in 0.012142 seconds 
+  Import took 0.014723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor 08 PBS.mat
+  artifactKey: Guid(710cda3cf311a79429a05e18b5bf94b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor 08 PBS.mat using Guid(710cda3cf311a79429a05e18b5bf94b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f896feaf986d10be41d2b45c74b14afb') in 0.018114 seconds 
+  Import took 0.020770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor 05 PBS.mat
+  artifactKey: Guid(ed833971f82fee142a77a1f1027e5fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor 05 PBS.mat using Guid(ed833971f82fee142a77a1f1027e5fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8455e61165eb4822295e2eacc2accc0c') in 0.022574 seconds 
+  Import took 0.025217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035947 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor 10 PBS.mat
+  artifactKey: Guid(4d0640d6c77aae345b3f366c388d8b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor 10 PBS.mat using Guid(4d0640d6c77aae345b3f366c388d8b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03bcb8069a8f2d158f700c2531a3ccf8') in 0.033377 seconds 
+  Import took 0.036751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor 09 PBS.mat
+  artifactKey: Guid(cfe01a842ca46d949b0a9e94f5864614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor 09 PBS.mat using Guid(cfe01a842ca46d949b0a9e94f5864614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84239a16b69dfc3c70b991efcfb510de') in 0.038850 seconds 
+  Import took 0.041518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor 06 PBS.mat
+  artifactKey: Guid(228f87cf739044f4091ad077a9397dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/INDOOR/Indoor 06 PBS.mat using Guid(228f87cf739044f4091ad077a9397dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2b62387c299b9e075037904b4bae526') in 0.023106 seconds 
+  Import took 0.025756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 209.835283 seconds.
+  path: Assets/20 Ground Material Sets MAN MADE/STONE/Stone 8 PBS.mat
+  artifactKey: Guid(12b847f4b72a2c34c8b908e75259796d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/20 Ground Material Sets MAN MADE/STONE/Stone 8 PBS.mat using Guid(12b847f4b72a2c34c8b908e75259796d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0352e84ff9fdd6b6d685f8efab4230c2') in 0.089924 seconds 
+  Import took 0.122749 seconds .
+
