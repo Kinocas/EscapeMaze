@@ -2167,3 +2167,27 @@ Received Import Request.
 Start importing Assets/20 Ground Material Sets MAN MADE/STONE/Stone 8 PBS.mat using Guid(12b847f4b72a2c34c8b908e75259796d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0352e84ff9fdd6b6d685f8efab4230c2') in 0.089924 seconds 
   Import took 0.122749 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 4851.733147 seconds.
+  path: Assets/unity-chan!
+  artifactKey: Guid(11671eda38c384287a0fef5077aff810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan! using Guid(11671eda38c384287a0fef5077aff810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd64a47d23137b0a8d84fea038776f44d') in 0.013979 seconds 
+  Import took 0.062911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.775009 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model
+  artifactKey: Guid(6395fe2434a22ef41b83186b290f8fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model using Guid(6395fe2434a22ef41b83186b290f8fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4da1c6fc935fe302be838b1c133b3a4e') in 0.001779 seconds 
+  Import took 0.004337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000849 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model
+  artifactKey: Guid(6395fe2434a22ef41b83186b290f8fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model using Guid(6395fe2434a22ef41b83186b290f8fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4da1c6fc935fe302be838b1c133b3a4e') in 0.000610 seconds 
+  Import took 0.002459 seconds .
+
