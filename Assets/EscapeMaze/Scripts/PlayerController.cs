@@ -45,7 +45,7 @@ public class PlayerController : MonoBehaviour
         animator.SetFloat("MoveSpeed", new Vector3(_moveVelocity.x, 0, _moveVelocity.z).magnitude);
         if (moveForward != Vector3.zero)
         {
-            this.transform.LookAt(this.transform.position +moveForward);
+            this.transform.LookAt(this.transform.position + moveForward);
         }
     }
 }
