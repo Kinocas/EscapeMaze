@@ -37,6 +37,7 @@ public class PlayerController : MonoBehaviour
 
         // 方向キーの入力値とカメラの向きから、移動方向を決定
         Vector3 moveForward = cameraForward * inputVertical + Camera.main.transform.right * inputHorizontal;
+
         _moveVelocity.x = moveForward.x * moveSpeed;
         _moveVelocity.z = moveForward.z * moveSpeed;
 
@@ -46,14 +47,5 @@ public class PlayerController : MonoBehaviour
         {
             this.transform.LookAt(this.transform.position +moveForward);
         }
-    }
-
-    void aaaa()
-    {
-        _moveVelocity.x = Input.GetAxis("Horizontal") * moveSpeed;
-        _moveVelocity.z = Input.GetAxis("Vertical") * moveSpeed;
-        this.transform.LookAt(this.transform.position + new Vector3(_moveVelocity.x, 0, _moveVelocity.z));
-        _characterController.Move(_moveVelocity * Time.deltaTime);
-        animator.SetFloat("MoveSpeed", new Vector3(_moveVelocity.x, 0, _moveVelocity.z).magnitude);
     }
 }
