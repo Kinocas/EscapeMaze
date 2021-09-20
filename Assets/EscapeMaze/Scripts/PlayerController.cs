@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -30,6 +31,7 @@ public class PlayerController : MonoBehaviour
         inputHorizontal = Input.GetAxis("Horizontal");
         inputVertical = Input.GetAxis("Vertical");
     }
+
     private void FixedUpdate()
     {
         // カメラの方向から、X-Z平面の単位ベクトルを取得
@@ -48,4 +50,14 @@ public class PlayerController : MonoBehaviour
             this.transform.LookAt(this.transform.position + moveForward);
         }
     }
+
+    private void OnControllerColliderHit(ControllerColliderHit hit)
+    {
+        if (hit.gameObject.tag == "Finish")
+        {
+            Debug.Log("衝突");
+            SceneManager.LoadScene("ClearScene");
+        }
+    }
+
 }
