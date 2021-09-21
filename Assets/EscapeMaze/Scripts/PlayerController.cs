@@ -55,8 +55,11 @@ public class PlayerController : MonoBehaviour
     {
         if (hit.gameObject.tag == "Finish")
         {
-            Debug.Log("衝突");
             SceneManager.LoadScene("ClearScene");
+        }
+        if (hit.gameObject.tag == "Enemy")
+        {
+            SceneManager.LoadScene("GameOverScene");
         }
     }
 
