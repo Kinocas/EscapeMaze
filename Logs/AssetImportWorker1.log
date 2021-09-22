@@ -2043,3 +2043,35 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 630.666287 seconds.
+  path: Assets/Wispy Sky
+  artifactKey: Guid(b374a08587cd041eab7095d1d4dfe794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wispy Sky using Guid(b374a08587cd041eab7095d1d4dfe794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fe21ff7c47fae63fe4cc5c891a6f150') in 0.614503 seconds 
+  Import took 0.913865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.452598 seconds.
+  path: Assets/Wispy Sky/Extras
+  artifactKey: Guid(a954fc6a976e62446a90a2c04105b646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wispy Sky/Extras using Guid(a954fc6a976e62446a90a2c04105b646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db562b9ffa4e10c20cfda6082e16f9a') in 0.002145 seconds 
+  Import took 0.005453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070647 seconds.
+  path: Assets/Wispy Sky/Extras/SphericalRenderEXR.exr
+  artifactKey: Guid(623f215c9cf5dc04aa628d4dd7b6bd73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wispy Sky/Extras/SphericalRenderEXR.exr using Guid(623f215c9cf5dc04aa628d4dd7b6bd73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bd895dea5aebd1aea8b9c9705a619b8') in 1.313109 seconds 
+  Import took 1.316434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Wispy Sky/Extras/SphericalRenderPSD.psd
+  artifactKey: Guid(bb3173e72a2ad3f409e5dded7284b7e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wispy Sky/Extras/SphericalRenderPSD.psd using Guid(bb3173e72a2ad3f409e5dded7284b7e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c00ba3ed9f89c4bb0616608491ea81b5') in 0.758937 seconds 
+  Import took 0.762392 seconds .
+
