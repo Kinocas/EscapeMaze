@@ -57,10 +57,6 @@ public class PlayerController : MonoBehaviour
         {
             SceneManager.LoadScene("ClearScene");
         }
-        if (hit.gameObject.tag == "Enemy")
-        {
-            SceneManager.LoadScene("GameOverScene");
-        }
     }
 
 }
