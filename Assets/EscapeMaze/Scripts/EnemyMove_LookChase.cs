@@ -22,6 +22,7 @@ public class EnemyMove_LookChase : MonoBehaviour
             float distance = positionDiff.magnitude;
             Vector3 direction = positionDiff.normalized;
             int hitCount = Physics.RaycastNonAlloc(transform.position, direction, raycastHits, distance);
+            
             if (hitCount == 0)
             {
                 agent.isStopped = false;
