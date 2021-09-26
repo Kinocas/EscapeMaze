@@ -1300,6 +1300,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 6
   jumpPower: 3
+  moveVelocity: {x: 0, y: 0, z: 0}
 --- !u!82 &494865316
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1311,10 +1312,10 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: -3729587850885884995, guid: aa2d055ef44394f97a1e67acba179e85, type: 2}
   m_audioClip: {fileID: 8300000, guid: 480ef8b7f34354e7ca9e280faad81c4f, type: 3}
-  m_PlayOnAwake: 0
+  m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -1396,6 +1397,20 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &494865317
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 494865312}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e32773ba9897453b93590fb9ee4dc21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundDelta: 9.587
+  time: 0
 --- !u!143 &494865318
 CharacterController:
   m_ObjectHideFlags: 0
