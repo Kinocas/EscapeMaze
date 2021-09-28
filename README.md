@@ -2,6 +2,9 @@
  
 # 概要
 かわいい敵キャラクターから逃げて、出口を目指して脱出しましょう！！
+[![Image from Gyazo](https://i.gyazo.com/f911dbbcf89bc1196cf9e0034ce5c670.jpg)](https://gyazo.com/f911dbbcf89bc1196cf9e0034ce5c670)
+[![Image from Gyazo](https://i.gyazo.com/36906322d7e5f94eb3bab2db3a3f633f.png)](https://gyazo.com/36906322d7e5f94eb3bab2db3a3f633f)
+- ゲーム内容の動画
 [![Image from Gyazo](https://i.gyazo.com/2475c74097262b90afedbe230abe6c3d.gif)](https://gyazo.com/2475c74097262b90afedbe230abe6c3d)
 # 制作背景
 ゲームを作りたいという思いから制作をスタートしました。
@@ -15,14 +18,12 @@
 ## カメラ操作
 - マウス操作で、キャラクターを中心に見渡すことが可能
 - 壁に近い場合、視点がキャラクターに寄るように実装
-[![Image from Gyazo](https://i.gyazo.com/2a2c947576b2e4889eae62dbb7e3f798.gif)](https://gyazo.com/2a2c947576b2e4889eae62dbb7e3f798)
 ## 敵キャラクターの実装
 - 4種類の敵キャラを配置
 - 徘徊するのみの敵
 - 永遠に追跡する敵
 - 視野に入った場合にのみ動き追跡し、それ以外は動かない敵
 - 視野に入った場合は追跡し、それ以外は徘徊する敵
-[![Image from Gyazo](https://i.gyazo.com/ee128a2cab7389f7836a1345427be203.gif)](https://gyazo.com/ee128a2cab7389f7836a1345427be203)
 ## 画面遷移の実装
 - タイトル画面からゲーム画面への遷移
 - ゲーム画面からクリア画面、ゲームオーバー画面への遷移
